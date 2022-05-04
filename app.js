@@ -8,4 +8,4 @@ const charUpt= _.upperFirst(txtVal);
 
 console.log(charUp, charUpt);
 
-// adding
+// adding a line for a commit
